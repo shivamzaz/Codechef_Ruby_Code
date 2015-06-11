@@ -1,3 +1,7 @@
+#june 2015 challenge...
+#author 'shivamzaz' @imsec 2cs
+#concept 'area finding of each polygon'
+#full name shivam gupta
 def polygon(X, Y, numPoints);
   area = 0;         // Accumulates area in the loop
   j = numPoints-1;  // The last vertex is the 'previous' one to the first
