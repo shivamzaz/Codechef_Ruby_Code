@@ -1,0 +1,21 @@
+git log /////work done by how many persons.
+git --pull rebase origin master ///for snchronisation with git master.///shows which file hv error
+commit ///command work by specific person name or tag
+git push -uvf origin master  //authentication push
+git add --all   ///add all things of app
+vi .gitignore ///show file which have error.
+grep -inr HEAD  //for showing error or  merge conflict.
+gst //git status which shows which thons r not commit.
+git commit -m 'Initial Boiler Plate'   ///one type of structure in which we add some add thing realted with app.
+history //sfter git init shows which commnd u were used.aall of..
+git remote set-url origin https://github.com/shivamzaz/shiv.git ///exist or edit the app.origin shows the pointer..
+git remote add origin https://github.com/shivamzaz/blog.git ///intialize url.
+git remote -v //Check for origin
+add->commit->push ///heck for origin
+
+
+ 
+
+
+
+
